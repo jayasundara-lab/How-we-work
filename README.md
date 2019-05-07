@@ -1,4 +1,4 @@
-# How-we-work
+# how-we-work
 
 To do - generate a code-of-conduct
 
