@@ -1,8 +1,6 @@
 # how-we-work
 
-To do - generate a code-of-conduct
-
-But for now this is a good place to start (copied from https://github.com/pinskylab/)
+from https://github.com/pinskylab/
 
 <img src="https://github.com/mstuart1/images/blob/master/IMG_0014.jpg" height="100" />  
 
